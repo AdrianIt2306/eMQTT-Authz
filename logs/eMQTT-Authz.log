@@ -1,0 +1,790 @@
+[TRACE] 2023-03-14 18:32:59.793 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@291f18
+[DEBUG] 2023-03-14 18:32:59.806 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:32:59.807 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:33:09.814 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:33:09.814 [main] Main - Getting users pending to access to eMQTT Broker
+[TRACE] 2023-03-14 18:33:22.668 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@291f18
+[DEBUG] 2023-03-14 18:33:22.681 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:33:22.681 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:33:32.684 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:33:32.684 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:33:42.689 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:33:42.690 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:33:52.696 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:33:52.697 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:02.700 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:02.700 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:12.702 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:12.703 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:22.709 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:22.709 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:32.711 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:32.712 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:42.714 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:42.715 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:34:52.718 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:34:52.719 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:02.723 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:02.723 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:12.726 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:12.727 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:12.727 [main] Main - ID [6d8c3b23-d0f2-4a56-a7d8-d8d7a0e8e4c8] - Username [mg_support]
+[DEBUG] 2023-03-14 18:35:12.732 [main] Util - a2f21092-cf58-474b-904e-b41a2341158b
+[DEBUG] 2023-03-14 18:35:12.733 [main] Util - UPDATE authz SET status = '1' WHERE authz.sku=4 AND authz.owner = '6d8c3b23-d0f2-4a56-a7d8-d8d7a0e8e4c8'
+[DEBUG] 2023-03-14 18:35:12.733 [main] Util - INSERT INTO api_key (value, sku, owner, timestamp) VALUES ('a2f21092cf58474b904eb41a2341158b', '4', '6d8c3b23-d0f2-4a56-a7d8-d8d7a0e8e4c8', current_timestamp())
+[DEBUG] 2023-03-14 18:35:12.761 [main] Main - 1001
+[TRACE] 2023-03-14 18:35:12.777 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@32c4e8b2
+[DEBUG] 2023-03-14 18:35:12.782 [main] Main - null
+[TRACE] 2023-03-14 18:35:12.785 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@764faa6
+[DEBUG] 2023-03-14 18:35:22.789 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:22.789 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:32.794 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:32.794 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:42.797 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:42.797 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:35:52.799 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:35:52.799 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:02.803 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:02.804 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:12.808 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:12.809 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:22.813 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:22.813 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:32.817 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:32.817 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:42.821 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:42.821 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:36:52.826 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:36:52.826 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:02.830 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:02.831 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:12.835 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:12.835 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:22.839 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:22.839 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:32.845 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:32.846 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:42.852 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:42.853 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:37:42.858 [main] Main - ID [be38e249-1244-45a1-a75f-27200d46eb2d] - Username [root]
+[DEBUG] 2023-03-14 18:37:42.859 [main] Util - 8595d33a-6711-44c6-9298-be75d64bd513
+[DEBUG] 2023-03-14 18:37:42.860 [main] Util - UPDATE authz SET status = '1' WHERE authz.sku=4 AND authz.owner = 'be38e249-1244-45a1-a75f-27200d46eb2d'
+[DEBUG] 2023-03-14 18:37:42.861 [main] Util - INSERT INTO api_key (value, sku, owner, timestamp) VALUES ('8595d33a671144c69298be75d64bd513', '4', 'be38e249-1244-45a1-a75f-27200d46eb2d', current_timestamp())
+[DEBUG] 2023-03-14 18:37:42.894 [main] Main - 5862
+[TRACE] 2023-03-14 18:37:42.909 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@5a755cc1
+[DEBUG] 2023-03-14 18:37:42.915 [main] Main - null
+[TRACE] 2023-03-14 18:37:42.920 [main] Connector - Connection OK com.mysql.cj.jdbc.ConnectionImpl@4f5991f6
+[DEBUG] 2023-03-14 18:37:52.926 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:37:52.926 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:02.930 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:02.931 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:12.938 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:12.938 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:22.942 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:22.942 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:32.947 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:32.947 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:42.952 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:42.953 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:38:52.956 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:38:52.957 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:02.962 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:02.963 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:12.971 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:12.971 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:22.979 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:22.979 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:32.986 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:32.986 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:42.991 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:42.991 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:39:52.998 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:39:52.999 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:03.003 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:03.003 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:13.006 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:13.006 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:23.008 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:23.008 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:33.013 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:33.013 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:43.016 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:43.016 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:40:53.019 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:40:53.019 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:03.025 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:03.026 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:13.033 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:13.034 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:23.040 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:23.041 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:33.046 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:33.046 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:43.050 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:43.050 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:41:53.057 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:41:53.057 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:03.064 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:03.065 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:13.069 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:13.069 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:23.073 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:23.074 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:33.079 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:33.080 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:43.084 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:43.084 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:42:53.090 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:42:53.090 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:03.095 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:03.096 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:13.101 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:13.101 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:23.105 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:23.105 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:33.110 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:33.110 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:43.116 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:43.117 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:43:53.124 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:43:53.125 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:03.132 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:03.132 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:13.140 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:13.140 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:23.145 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:23.145 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:33.151 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:33.151 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:43.156 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:43.156 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:44:53.161 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:44:53.161 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:03.163 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:03.163 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:13.167 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:13.168 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:23.173 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:23.173 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:33.179 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:33.179 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:43.183 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:43.184 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:45:53.189 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:45:53.191 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:03.197 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:03.198 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:13.204 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:13.205 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:23.210 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:23.210 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:33.214 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:33.214 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:43.219 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:43.219 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:46:53.221 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:46:53.221 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:03.226 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:03.227 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:13.234 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:13.235 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:23.238 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:23.239 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:33.243 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:33.243 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:43.245 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:43.246 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:47:53.250 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:47:53.250 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:03.256 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:03.257 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:13.263 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:13.264 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:23.269 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:23.270 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:33.277 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:33.278 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:43.286 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:43.286 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:48:53.295 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:48:53.295 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:03.303 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:03.304 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:13.309 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:13.310 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:23.314 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:23.315 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:33.321 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:33.321 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:43.327 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:43.328 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:49:53.335 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:49:53.335 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:03.341 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:03.341 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:13.346 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:13.347 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:23.355 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:23.355 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:33.361 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:33.361 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:43.366 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:43.366 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:50:53.373 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:50:53.373 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:03.378 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:03.378 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:13.381 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:13.381 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:23.388 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:23.388 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:33.395 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:33.395 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:43.401 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:43.402 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:51:53.410 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:51:53.410 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:03.418 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:03.418 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:13.424 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:13.424 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:23.431 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:23.431 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:33.440 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:33.440 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:43.448 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:43.449 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:52:53.457 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:52:53.458 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:03.466 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:03.467 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:13.474 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:13.475 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:23.479 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:23.479 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:33.485 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:33.486 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:43.490 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:43.491 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:53:53.496 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:53:53.497 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:03.506 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:03.506 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:13.514 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:13.515 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:23.521 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:23.522 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:33.529 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:33.530 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:43.536 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:43.537 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:54:53.542 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:54:53.543 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:03.547 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:03.547 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:13.551 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:13.551 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:23.556 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:23.557 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:33.562 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:33.563 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:43.567 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:43.568 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:55:53.575 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:55:53.576 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:03.584 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:03.584 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:13.589 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:13.589 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:23.595 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:23.596 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:33.603 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:33.604 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:43.609 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:43.610 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:56:53.616 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:56:53.617 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:03.622 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:03.622 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:13.627 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:13.627 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:23.631 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:23.632 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:33.639 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:33.639 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:43.645 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:43.645 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:57:53.650 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:57:53.650 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:03.652 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:03.652 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:13.654 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:13.655 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:23.657 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:23.658 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:33.660 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:33.660 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:43.663 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:43.664 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:58:53.668 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:58:53.669 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:03.671 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:03.671 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:13.673 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:13.673 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:23.676 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:23.676 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:33.679 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:33.679 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:43.683 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:43.683 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 18:59:53.686 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 18:59:53.686 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:03.688 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:03.688 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:13.690 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:13.690 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:23.694 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:23.694 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:33.697 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:33.697 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:43.701 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:43.701 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:00:53.703 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:00:53.704 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:03.706 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:03.706 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:13.710 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:13.711 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:23.715 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:23.715 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:33.718 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:33.718 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:43.720 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:43.721 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:01:53.725 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:01:53.725 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:03.727 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:03.727 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:13.733 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:13.734 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:23.740 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:23.741 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:33.746 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:33.746 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:43.750 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:43.750 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:02:53.753 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:02:53.753 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:03.755 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:03.755 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:13.759 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:13.759 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:23.763 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:23.763 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:33.765 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:33.765 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:43.770 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:43.770 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:03:53.777 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:03:53.777 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:03.785 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:03.786 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:13.789 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:13.789 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:23.795 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:23.796 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:33.801 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:33.801 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:43.805 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:43.806 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:04:53.808 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:04:53.808 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:03.811 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:03.811 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:13.814 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:13.814 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:23.817 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:23.817 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:33.820 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:33.820 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:43.824 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:43.824 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:05:53.827 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:05:53.827 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:03.831 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:03.831 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:13.834 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:13.835 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:23.837 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:23.837 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:33.839 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:33.839 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:43.843 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:43.843 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:06:53.845 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:06:53.846 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:03.849 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:03.849 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:13.851 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:13.851 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:23.854 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:23.854 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:33.855 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:33.856 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:43.857 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:43.857 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:07:53.859 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:07:53.859 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:03.862 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:03.862 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:13.866 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:13.866 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:23.871 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:23.871 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:33.874 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:33.874 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:43.877 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:43.878 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:08:53.883 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:08:53.883 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:03.886 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:03.886 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:13.889 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:13.889 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:23.895 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:23.895 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:33.899 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:33.900 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:43.905 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:43.905 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:09:53.909 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:09:53.909 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:03.917 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:03.918 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:13.924 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:13.925 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:23.929 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:23.930 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:33.934 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:33.934 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:43.943 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:43.943 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:10:53.948 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:10:53.948 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:03.956 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:03.956 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:13.961 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:13.961 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:23.966 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:23.966 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:33.972 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:33.972 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:43.977 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:43.977 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:11:53.984 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:11:53.984 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:03.987 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:03.987 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:13.990 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:13.990 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:23.995 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:23.995 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:33.998 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:33.998 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:43.999 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:43.999 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:12:54.001 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:12:54.001 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:04.006 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:04.006 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:14.009 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:14.009 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:24.011 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:24.011 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:34.015 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:34.015 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:44.018 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:44.019 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:13:54.021 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:13:54.021 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:04.024 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:04.024 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:14.026 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:14.026 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:24.030 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:24.030 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:34.037 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:34.038 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:44.043 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:44.043 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:14:54.049 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:14:54.049 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:04.055 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:04.055 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:14.061 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:14.061 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:24.067 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:24.067 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:34.073 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:34.073 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:44.077 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:44.077 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:15:54.079 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:15:54.079 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:04.085 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:04.085 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:14.087 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:14.088 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:24.089 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:24.089 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:34.090 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:34.091 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:44.094 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:44.094 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:16:54.098 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:16:54.098 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:04.100 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:04.100 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:14.103 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:14.103 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:24.106 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:24.107 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:34.112 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:34.112 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:44.115 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:44.116 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:17:54.118 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:17:54.118 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:04.122 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:04.123 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:14.127 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:14.128 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:24.130 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:24.130 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:34.137 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:34.137 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:44.143 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:44.143 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:18:54.147 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:18:54.147 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:04.151 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:04.151 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:14.154 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:14.155 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:24.159 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:24.159 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:34.163 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:34.163 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:44.167 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:44.167 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:19:54.172 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:19:54.172 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:04.176 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:04.177 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:14.181 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:14.181 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:24.184 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:24.185 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:34.191 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:34.192 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:44.198 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:44.198 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:20:54.205 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:20:54.205 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:04.212 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:04.213 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:14.218 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:14.218 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:24.220 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:24.220 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:34.223 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:34.223 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:44.229 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:44.229 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:21:54.235 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:21:54.235 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:04.239 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:04.239 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:14.242 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:14.242 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:24.245 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:24.245 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:34.250 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:34.250 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:44.256 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:44.256 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:22:54.262 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:22:54.262 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:04.267 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:04.267 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:14.271 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:14.271 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:24.275 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:24.275 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:34.279 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:34.279 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:44.283 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:44.284 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:23:54.289 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:23:54.290 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:04.296 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:04.297 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:14.303 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:14.303 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:24.306 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:24.306 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:34.312 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:34.313 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:44.316 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:44.316 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:24:54.321 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:24:54.321 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:04.324 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:04.324 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:14.327 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:14.327 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:24.333 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:24.334 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:34.341 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:34.341 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:44.348 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:44.348 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:25:54.354 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:25:54.354 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:04.359 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:04.359 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:14.364 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:14.364 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:24.372 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:24.377 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:34.382 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:34.383 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:44.385 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:44.385 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:26:54.388 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:26:54.388 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:04.393 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:04.393 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:14.399 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:14.399 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:24.404 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:24.404 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:34.407 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:34.408 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:44.410 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:44.410 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:27:54.414 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:27:54.414 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:04.417 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:04.417 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:14.421 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:14.421 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:24.425 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:24.425 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:34.433 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:34.434 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:44.440 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:44.441 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:28:54.445 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:28:54.445 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:04.448 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:04.448 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:14.453 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:14.453 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:24.456 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:24.456 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:34.458 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:34.458 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:44.460 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:44.460 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:29:54.462 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:29:54.462 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:04.466 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:04.466 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:14.468 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:14.468 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:24.472 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:24.472 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:34.476 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:34.476 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:44.480 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:44.481 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:30:54.488 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:30:54.488 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:04.492 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:04.492 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:14.500 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:14.500 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:24.505 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:24.506 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:34.510 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:34.510 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:44.516 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:44.516 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:31:54.522 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:31:54.522 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:04.529 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:04.529 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:14.535 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:14.535 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:24.541 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:24.541 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:34.546 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:34.546 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:44.550 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:44.550 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:32:54.555 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:32:54.555 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:04.560 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:04.560 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:14.565 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:14.566 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:24.571 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:24.571 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:34.574 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:34.575 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:44.577 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:44.577 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:33:54.584 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:33:54.584 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:04.590 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:04.590 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:14.594 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:14.594 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:24.599 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:24.599 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:34.603 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:34.603 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:44.607 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:44.607 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:34:54.612 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:34:54.612 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:04.616 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:04.617 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:14.622 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:14.622 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:24.627 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:24.627 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:34.632 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:34.633 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:44.639 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:44.639 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:35:54.643 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:35:54.643 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:04.648 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:04.649 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:14.655 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:14.655 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:24.661 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:24.661 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:34.666 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:34.666 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:44.670 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:44.670 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:36:54.675 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:36:54.675 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:37:04.678 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:37:04.678 [main] Main - Getting users pending to access to eMQTT Broker
+[DEBUG] 2023-03-14 19:37:14.681 [main] Util - Recovered status (true/false) from architecture: true
+[INFO ] 2023-03-14 19:37:14.682 [main] Main - Getting users pending to access to eMQTT Broker
