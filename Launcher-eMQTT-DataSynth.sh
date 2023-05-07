@@ -1,3 +1,4 @@
+#Prepared for GitHub
 export EMQTT_DBNAME=datasynth
 export EMQTT_HOSTNAME=localhost
 export EMQTT_HOSTNAME_MQTT=localhost
